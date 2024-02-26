@@ -2,6 +2,7 @@
 
 [Text Emulator](https://chat.openai.com/g/g-eeQM2XDch-text-emulator) specializes in emulating the writing style of famous authors as well as the style of text provided by users. It can analyze a snippet of text and mimic its style, vocabulary, and tone, adjusting its responses to match the nuances in language, sentence structure, and stylistic elements of the original writing. This enables it to provide personalized and stylistically consistent text based on the example or author chosen.
 
+#
 ### Examples
 
 **Shakespearean Style:**
