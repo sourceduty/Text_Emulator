@@ -36,6 +36,8 @@
 [Text Emulator](https://github.com/sourceduty/Text_Emulator)
 <br>
 [GPT Simulators](https://github.com/sourceduty/GPT_Simulators)
+<br>
+[Book Structure](https://github.com/sourceduty/Book_Structure)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
